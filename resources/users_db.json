@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nazarii",
+      "rating": 99.1,
+      "university": "Lviv National university",
+      "Portfolio": "https://telegra.ph/haj-04-13-3",
+      "Category": "programming",
+      "Skills": [
+        "C++",
+        "Python",
+        "telegrambotAPI",
+        "bash"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Denys",
+      "rating": 25.3,
+      "university": "Lviv National university",
+      "Portfolio": "https://telegra.ph/haj-04-13-3",
+      "Category": "programming",
+      "Skills": [
+        "C++",
+        "Python",
+        "telegrambotAPI",
+        "Django"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "nKhapko",
+      "rating": 99.2,
+      "university": "LNU",
+      "Portfolio": "",
+      "Category": "",
+      "Skills": [
+        "C++",
+        "Python"
+      ]
+    }
+  ]
+}
